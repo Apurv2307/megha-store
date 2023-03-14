@@ -65,17 +65,19 @@ class Navigation extends Component {
               href="/"
               className="text-decoration-none text-dark d-flex align-items-center"
             >
-              <img className="osahan-logo mr-2" src="img/logo.svg" />
-              <h4 className="font-weight-bold text-success m-0">Grocery</h4>
+              <img className="osahan-logo mr-2" src="img/logo.png" />
+              {/* <h4 className="font-weight-bold text-success m-0">8954780781</h4> */}
             </a>
             <p className="ml-auto m-0">
-              <a
+            <h4 className="font-weight-bold text-success m-0">8954780781</h4>
+
+              {/* <a
                 href="/"
                 className="text-decoration-none bg-white p-1 rounded shadow-sm d-flex align-items-center"
               >
                 <i className="text-dark icofont-notification" />
                 <span className="badge badge-danger p-1 ml-1 small">2</span>
-              </a>
+              </a> */}
             </p>
             <a className="toggle ml-3" href="#">
               <i className="icofont-navigation-menu" />

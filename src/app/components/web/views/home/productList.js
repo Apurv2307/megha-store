@@ -23,13 +23,13 @@ export default class ProductList extends Component {
             <div className="row border-bottom border-top">
               <div className="col-6 p-0 border-right">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-danger">10%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v1.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -37,7 +37,7 @@ export default class ProductList extends Component {
                       <h6>Chilli</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a
@@ -52,13 +52,13 @@ export default class ProductList extends Component {
               </div>
               <div className="col-6 p-0">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-danger">5%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v2.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -66,7 +66,7 @@ export default class ProductList extends Component {
                       <h6>Onion</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$1.8/kg</h6>
                       </a>
                       <a className="ml-auto" href="/cart">
@@ -104,13 +104,13 @@ export default class ProductList extends Component {
             <div className="row border-bottom">
               <div className="col-6 p-0 border-right">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">5%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v3.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -118,7 +118,7 @@ export default class ProductList extends Component {
                       <h6>Tomato</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$2.5/kg</h6>
                       </a>
                       <a
@@ -133,13 +133,13 @@ export default class ProductList extends Component {
               </div>
               <div className="col-6 p-0">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">15%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v4.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -147,7 +147,7 @@ export default class ProductList extends Component {
                       <h6>Cabbage</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a
@@ -164,13 +164,13 @@ export default class ProductList extends Component {
             <div className="row border-bottom">
               <div className="col-6 p-0 border-right">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-success">10%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v5.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -178,7 +178,7 @@ export default class ProductList extends Component {
                       <h6>Cauliflower</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$1.8/kg</h6>
                       </a>
                       <a className="ml-auto" href="/cart">
@@ -214,13 +214,13 @@ export default class ProductList extends Component {
               </div>
               <div className="col-6 p-0">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-success">10%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v6.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -228,7 +228,7 @@ export default class ProductList extends Component {
                       <h6>Carrot</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a
@@ -245,13 +245,13 @@ export default class ProductList extends Component {
             <div className="row border-bottom">
               <div className="col-6 p-0 border-right">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">5%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v7.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -259,7 +259,7 @@ export default class ProductList extends Component {
                       <h6>Star Anise</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$2.5/kg</h6>
                       </a>
                       <a
@@ -274,13 +274,13 @@ export default class ProductList extends Component {
               </div>
               <div className="col-6 p-0">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">15%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v8.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -288,7 +288,7 @@ export default class ProductList extends Component {
                       <h6>Brinjal</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a
@@ -305,13 +305,13 @@ export default class ProductList extends Component {
             <div className="row border-bottom">
               <div className="col-6 p-0 border-right">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">5%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v9.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -319,7 +319,7 @@ export default class ProductList extends Component {
                       <h6>Capsicum</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$2.5/kg</h6>
                       </a>
                       <a
@@ -334,13 +334,13 @@ export default class ProductList extends Component {
               </div>
               <div className="col-6 p-0">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">15%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v10.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -348,7 +348,7 @@ export default class ProductList extends Component {
                       <h6>Lady Finger</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a
@@ -365,13 +365,13 @@ export default class ProductList extends Component {
             <div className="row border-bottom">
               <div className="col-6 p-0 border-right">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">5%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v11.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -379,7 +379,7 @@ export default class ProductList extends Component {
                       <h6>Garlic</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$2.5/kg</h6>
                       </a>
                       <a
@@ -394,13 +394,13 @@ export default class ProductList extends Component {
               </div>
               <div className="col-6 p-0">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">15%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v12.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -408,7 +408,7 @@ export default class ProductList extends Component {
                       <h6>Ginger</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a

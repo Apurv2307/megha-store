@@ -9,13 +9,13 @@ export default class Offercard extends Component {
             <div className="col-6 pr-2">
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-danger">10%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v1.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -23,7 +23,7 @@ export default class Offercard extends Component {
                       <h6>Chilli</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a
@@ -40,13 +40,13 @@ export default class Offercard extends Component {
             <div className="col-6 pl-2">
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-danger">5%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v2.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -54,7 +54,7 @@ export default class Offercard extends Component {
                       <h6>Onion</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$1.8/kg</h6>
                       </a>
                       <a
@@ -73,13 +73,13 @@ export default class Offercard extends Component {
             <div className="col-6 pr-2">
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">5%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v3.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -87,7 +87,7 @@ export default class Offercard extends Component {
                       <h6>Tomato</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$1/kg</h6>
                       </a>
                       <a className="ml-auto" href="/cart">
@@ -125,13 +125,13 @@ export default class Offercard extends Component {
             <div className="col-6 pl-2">
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-warning">15%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v4.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -139,7 +139,7 @@ export default class Offercard extends Component {
                       <h6>Cabbage</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a
@@ -158,13 +158,13 @@ export default class Offercard extends Component {
             <div className="col-6 pr-2">
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-success">10%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v5.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -172,7 +172,7 @@ export default class Offercard extends Component {
                       <h6>Cauliflower</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$1.8/kg</h6>
                       </a>
                       <a
@@ -189,13 +189,13 @@ export default class Offercard extends Component {
             <div className="col-6 pl-2">
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <div className="list-card-image">
-                  <a href="/product-detail" className="text-dark">
+                  <a href="/" className="text-dark">
                     <div className="member-plan position-absolute">
                       <span className="badge m-3 badge-success">10%</span>
                     </div>
                   </a>
                   <div className="p-3">
-                    <a href="/product-detail" className="text-dark">
+                    <a href="/" className="text-dark">
                       <img
                         src="img/listing/v6.jpg"
                         className="img-fluid item-img w-100 mb-3"
@@ -203,7 +203,7 @@ export default class Offercard extends Component {
                       <h6>Carrot</h6>
                     </a>
                     <div className="d-flex align-items-center">
-                      <a href="/product-detail" className="text-dark">
+                      <a href="/" className="text-dark">
                         <h6 className="price m-0 text-success">$0.8/kg</h6>
                       </a>
                       <a
@@ -219,22 +219,22 @@ export default class Offercard extends Component {
             </div>
           </div>
         </div>
-        <div className="title d-flex align-items-center p-3">
+        {/* <div className="title d-flex align-items-center p-3">
           <h6 className="m-0">Recommend for You</h6>
           <a className="ml-auto text-success" href="/">
             26 more
           </a>
-        </div>
-        <div className="osahan-recommend px-3">
+        </div> */}
+        {/* <div className="osahan-recommend px-3">
           <div className="row">
             <div className="col-12 mb-3">
               <a
-                href="/product-detail"
+                href="/"
                 className="text-dark text-decoration-none"
               ></a>
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <a
-                  href="/product-detail"
+                  href="/"
                   className="text-dark text-decoration-none"
                 >
                   <div className="recommend-slider rounded pt-2">
@@ -263,7 +263,7 @@ export default class Offercard extends Component {
                 </a>
                 <div className="p-3 position-relative">
                   <a
-                    href="/product-detail"
+                    href="/"
                     className="text-dark text-decoration-none"
                   >
                     <h6 className="mb-1 font-weight-bold text-success">
@@ -275,7 +275,7 @@ export default class Offercard extends Component {
                   </a>
                   <div className="d-flex align-items-center">
                     <a
-                      href="/product-detail"
+                      href="/"
                       className="text-dark text-decoration-none"
                     >
                       <h6 className="m-0">$8.8/kg</h6>
@@ -313,12 +313,12 @@ export default class Offercard extends Component {
             </div>
             <div className="col-12 mb-3">
               <a
-                href="/product-detail"
+                href="/"
                 className="text-dark text-decoration-none"
               ></a>
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <a
-                  href="/product-detail"
+                  href="/"
                   className="text-dark text-decoration-none"
                 >
                   <div className="recommend-slider rounded pt-2">
@@ -347,7 +347,7 @@ export default class Offercard extends Component {
                 </a>
                 <div className="p-3 position-relative">
                   <a
-                    href="/product-detail"
+                    href="/"
                     className="text-dark text-decoration-none"
                   >
                     <h6 className="mb-1 font-weight-bold text-success">
@@ -359,7 +359,7 @@ export default class Offercard extends Component {
                   </a>
                   <div className="d-flex align-items-center">
                     <a
-                      href="/product-detail"
+                      href="/"
                       className="text-dark text-decoration-none"
                     >
                       <h6 className="m-0">$10.8/kg</h6>
@@ -397,12 +397,12 @@ export default class Offercard extends Component {
             </div>
             <div className="col-12 mb-3">
               <a
-                href="/product-detail"
+                href="/"
                 className="text-dark text-decoration-none"
               ></a>
               <div className="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                 <a
-                  href="/product-detail"
+                  href="/"
                   className="text-dark text-decoration-none"
                 >
                   <div className="recommend-slider rounded pt-2">
@@ -431,7 +431,7 @@ export default class Offercard extends Component {
                 </a>
                 <div className="p-3 position-relative">
                   <a
-                    href="/product-detail"
+                    href="/"
                     className="text-dark text-decoration-none"
                   >
                     <h6 className="mb-1 font-weight-bold text-success">
@@ -443,7 +443,7 @@ export default class Offercard extends Component {
                   </a>
                   <div className="d-flex align-items-center">
                     <a
-                      href="/product-detail"
+                      href="/"
                       className="text-dark text-decoration-none"
                     >
                       <h6 className="m-0">$12.8/kg</h6>
@@ -480,7 +480,7 @@ export default class Offercard extends Component {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     );
   }

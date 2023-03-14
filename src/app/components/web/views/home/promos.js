@@ -12,7 +12,7 @@ export default class Promos extends PureComponent {
             </a>
           </div>
           <div className="promo-slider">
-            <div className="osahan-slider-item m-2">
+            {/* <div className="osahan-slider-item m-2">
               <a href="/product-detail">
                 <img
                   src="img/promo1.jpg"
@@ -20,7 +20,7 @@ export default class Promos extends PureComponent {
                   alt="Responsive image"
                 />
               </a>
-            </div>
+            </div> */}
             <div className="osahan-slider-item m-2">
               <a href="/product-detail">
                 <img
